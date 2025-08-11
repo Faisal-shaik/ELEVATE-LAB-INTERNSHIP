@@ -31,4 +31,4 @@ The website features:
 
 ---
 
-## 📂 Folder Structure
+
